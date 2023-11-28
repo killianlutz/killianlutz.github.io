@@ -11,13 +11,13 @@ Check out this [interactive animation](https://github.com/killianlutz/BlochBallA
 
 ---
 
-# A Visual and Intuitive approach to Optimization
+# Visual approach to Optimization
 Conservative physical systems reach equilibrium when minimizing their potential energy. What if we tried to understand the mechanics behind the classical algorithms for continuous optimization using such a principle?
 
 Check out the resulting [animations](https://github.com/killianlutz/IntuitiveOptimization)!
 
 --- 
-# Lotka-Volterra model & flow of dynamical systems
+# Flow of Lotka-Volterra ODE
 Seeking to improve your tools to perform qualitative analysis of dynamical systems and their linearizations? 
 
 Check out this [interactive animation](https://github.com/killianlutz/LVDemo.jl)!
