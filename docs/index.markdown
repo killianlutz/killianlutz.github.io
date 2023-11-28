@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+<img src="../logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 100px; width:100px;"/>
+<img src="../logos/Signature_Universite_Strasbourg_Unistra2_Blanc.png" alt="logo UNISTRA" style="height: 100px; width:100px;"/>
