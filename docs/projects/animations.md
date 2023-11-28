@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/animations
+permalink: /animations
 ---
 
 # Open qubits & Bloch ball
