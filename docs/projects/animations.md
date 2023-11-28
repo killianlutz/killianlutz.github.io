@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Animations
+title: Projects
 permalink: /animations
 ---
 
@@ -11,7 +11,7 @@ Check out this [interactive animation](https://github.com/killianlutz/BlochBallA
 
 ---
 
-# Optimization: less math, more intuition
+# A Visual and Intuitive approach to Optimization
 Conservative physical systems reach equilibrium when minimizing their potential energy. What if we tried to understand the mechanics behind the classical algorithms for continuous optimization using such a principle?
 
 Check out the resulting [animations](https://github.com/killianlutz/IntuitiveOptimization)!
