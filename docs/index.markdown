@@ -7,3 +7,5 @@ layout: home
 
 <img src="./data/logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 60px;"/>
 <img src="./data/logos/Signature_Universite_Strasbourg_Unistra2_Blanc.png" alt="logo UNISTRA" style="height: 60px;"/>
+
+This webpage is a *work in progress*...
