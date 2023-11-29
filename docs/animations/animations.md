@@ -16,8 +16,8 @@ Try it yourself: [Interactive animation](https://github.com/killianlutz/BlochBal
 
 ---
 
-# <span style="color:#e67e22"> Visual approach to Optimization </span>
-Iterative algorithms requires proper initializations. Does initialization matter? Find out by choosing all initializations at once! 
+# <span style="color:#e67e22"> Optimization, the intuitive way </span>
+Iterative algorithms require proper initializations. Does initialization matter? Find out by choosing all initializations at once! 
 
 Many more examples: [Animations](https://github.com/killianlutz/IntuitiveOptimization)
 
@@ -27,7 +27,7 @@ Many more examples: [Animations](https://github.com/killianlutz/IntuitiveOptimiz
 </video>
 
 --- 
-# <span style="color:#e67e22"> Flow of Lotka-Volterra ODE </span>
+# <span style="color:#e67e22"> Flow of the Lotka-Volterra ODE </span>
 Qualitative analysis of differential equations and their linearizations about fixed points. 
 
 Try it yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.jl)
