@@ -38,7 +38,7 @@ Try it yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.j
 </video>
 
 --- 
-# <span style="color:#e67e22"> **Discrete Fourier Transform: frequencies & compression** </span>
+# <span style="color:#e67e22"> **Discrete Fourier Transform & Compression** </span>
 Interactive time and frequency analysis of your own signal to better grasp a simple compression technique. Assess the compression quality by listening to the original sampled signal and its compressed version.
 
 Try it yourself: [Interactive animation](https://github.com/killianlutz/DFTDemo1D)
