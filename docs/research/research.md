@@ -18,7 +18,7 @@ Regarding physics and insights, this PhD project is a collaboration with the tea
 
 ---
 
-- 2023, [**$Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity**](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970). *Optimal Control, Applications and Methods*.\ 
+- 2023, [**Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity**](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970). *Optimal Control, Applications and Methods*.\ 
 Co-authors : C. Courtès, E. Franck, L. Navoret, Y. Privat.
 
 # <span style="color:#e67e22"> Talks </span>
