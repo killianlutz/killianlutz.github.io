@@ -17,7 +17,7 @@ Regarding physics this PhD project is a collaboration with the team of [Paul-Ant
 
 # <span style="color:#e67e22"> Publications </span>
 
-- 2023, [**Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity**](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970). *Optimal Control, Applications and Methods*. Co-authors : C. Courtès, E. Franck, L. Navoret, Y. Privat.
+- 2023, **Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity**. Journal *Optimal Control, Applications and Methods*. Co-authors : C. Courtès, E. Franck, L. Navoret, Y. Privat. [ArXiv](https://arxiv.org/abs/2205.06539), [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970)
 
 # <span style="color:#e67e22"> Talks </span>
 
