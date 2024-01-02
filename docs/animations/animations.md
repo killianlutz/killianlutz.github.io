@@ -4,10 +4,10 @@ title: Animations
 permalink: /animations
 ---
 
-# <span style="color:#e67e22"> **Open qubits & Bloch ball** </span>
+# <span style="color:#e67e22"> Open qubits & Bloch ball </span>
 The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems known as qubits. 
 
-Try it yourself: [Interactive animation](https://github.com/killianlutz/BlochBallAnim.jl)
+Try it for yourself: [Interactive animation](https://github.com/killianlutz/BlochBallAnim.jl)
 
 <video 
     src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5" 
@@ -16,10 +16,10 @@ Try it yourself: [Interactive animation](https://github.com/killianlutz/BlochBal
 
 ---
 
-# <span style="color:#e67e22"> **Optimization, the intuitive way** </span>
+# <span style="color:#e67e22"> Optimization, the intuitive way </span>
 Iterative algorithms require proper initializations. Does initialization matter? Find out by choosing all initializations at once! 
 
-Many more examples: [Animations](https://github.com/killianlutz/IntuitiveOptimization)
+Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOptimization)
 
 <video 
     src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/74b54c95-e8e4-46a5-85c0-c19b6790cc87" 
@@ -27,10 +27,10 @@ Many more examples: [Animations](https://github.com/killianlutz/IntuitiveOptimiz
 </video>
 
 --- 
-# <span style="color:#e67e22"> **Flow of the Lotka-Volterra ODE** </span>
+# <span style="color:#e67e22"> Flow of the Lotka-Volterra ODE </span>
 Qualitative analysis of differential equations and their linearizations about fixed points. 
 
-Try it yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.jl)
+Try it for yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.jl)
 
 <video 
     src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/3ae90cd5-3e1a-470b-9273-efc3d2118514" 
@@ -38,10 +38,10 @@ Try it yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.j
 </video>
 
 --- 
-# <span style="color:#e67e22"> **Discrete Fourier Transform & Compression** </span>
-Interactive time and frequency analysis of your own signal. Assess the compression quality by listening to the original sampled signal and its compressed version.
+# <span style="color:#e67e22"> Discrete Fourier Transform & Compression </span>
+Interactive analysis of your own time-signal. Assess the compression quality by listening to the original sampled signal and its compressed version.
 
-Try it yourself: [Interactive animation](https://github.com/killianlutz/DFTDemo1D)
+Try it for yourself: [Interactive animation](https://github.com/killianlutz/DFTDemo1D)
 
 <video 
     src="https://github.com/killianlutz/DFTDemo1D/assets/152091888/49b085f1-35e2-42f3-b3eb-05aec48f37e8" 
