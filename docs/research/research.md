@@ -9,7 +9,7 @@ The aim of my PhD thesis is the analysis and development of numerical methods de
 For instance, given a logical operation (e.g. NOT gate in classical computing) the aim is to find appropriate electro-magnetic pulses whose effect on qudits implement the latter operation.
 For a brief interactive introduction to this topic, check out this [Git repository](https://github.com/killianlutz/BlochBallAnim.jl).
 
-What makes it challenging? Mathematically it is about *non-linear* control theory while numerically, the state space for the mathematical model is *high-dimensional* and grows exponentially fast (e.g. more than '10 to the power 30' degrees of freedom for a realistic coupled system of 100 qubits).
+What makes it challenging? Mathematically it is about *non-linear* control theory. Numerically and from a practical point of view, the state space associated to the mathematical model is *high-dimensional* and grows exponentially fast (e.g. more than '10 to the power 30' degrees of freedom for a realistic coupled system of 100 qubits).
 
 This project is a close collaboration with physicists in the team of [Paul-Antoine Hervieux](https://www.ipcms.fr/en/paul-antoine-hervieux/) from [IPCM Strasbourg](https://www.ipcms.fr/en/home/).
 
