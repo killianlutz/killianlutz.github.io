@@ -6,12 +6,12 @@ permalink: /research
 
 The aim of my PhD thesis is the analysis and development of numerical methods dedicated to the **control** of **non-isolated** discrete quantum systems known as **qudits** (like 'bits' in classical computing). The underlying mathematical model is the **GKS-Lindblad equation** and the applications include quantum computing. 
 
-For instance, given a logical operation (e.g. NOT gate in classical computing) we seek to design and describe an appropriate sequence of electro-magnetic pulses whose effect on qudits implements the latter logical operation.
+For instance, given a logical operation (e.g. NOT gate in classical computing) the aim is to find appropriate electro-magnetic pulses whose effect on qudits implement the latter operation.
 For a brief interactive introduction to this topic, check out this [Git repository](https://github.com/killianlutz/BlochBallAnim.jl).
 
-What is challenging? Mathematically, it is about so-called affine (non-linear!) control theory. Numerically, the state space for the mathematical model is *very* high-dimensional (e.g. more than '10 to the power 30' degrees of freedom for a realistic coupled system of 100 qubits).
+What makes it challenging? Mathematically it is about *non-linear* control theory while numerically, the state space for the mathematical model is *high-dimensional* and grows exponentially fast (e.g. more than '10 to the power 30' degrees of freedom for a realistic coupled system of 100 qubits).
 
-Regarding physics this PhD project is a collaboration with the team of [Paul-Antoine Hervieux](https://www.ipcms.fr/en/paul-antoine-hervieux/) from [IPCM Strasbourg](https://www.ipcms.fr/en/home/).
+This project is a close collaboration with physicists in the team of [Paul-Antoine Hervieux](https://www.ipcms.fr/en/paul-antoine-hervieux/) from [IPCM Strasbourg](https://www.ipcms.fr/en/home/).
 
 ---
 
