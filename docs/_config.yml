@@ -23,7 +23,7 @@ author: INRIA Grand Est - Team MACARON
 title: Killian Lutz
 email: killian.lutz[at]math.unistra.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Quantum Control - Numerical Analysis
+  Quantum Control
 theme: jekyll-theme-cayman
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

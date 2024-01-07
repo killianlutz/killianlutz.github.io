@@ -6,7 +6,6 @@ permalink: /about/
 
 My PhD project deals with control of open quantum systems applied to quantum information. It is supervised by [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL).
 
----
 # <span style="color:#e67e22"> PhD project highlights </span>
 
 The aim of the PhD project is to develop numerical methods suited to the **control** of **non-isolated** discrete quantum systems known as **qudits**. The latter are analoguous to 'bits' in classical computing and the underlying mathematical model is the **GKS-Lindblad equation**. 
