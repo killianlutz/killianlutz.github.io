@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am a doctoral student at the university of Strasbourg. The supervisors are [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL).
+My PhD project deals with control of open quantum systems applied to quantum information. It is supervised by [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL).
 
 ---
 # <span style="color:#e67e22"> PhD project highlights </span>
