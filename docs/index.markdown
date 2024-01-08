@@ -9,6 +9,8 @@ layout: home
 
 # <span style="color:#e67e22"> In brief </span>
 
-PhD student in Quantum Control \\ 
-Institut de Recherche Mathématique Avancée \\
+PhD student in Quantum Control 
+
+Institut de Recherche Mathématique Avancée (IRMA)
+
 Joint Research Unit 7501 of the CNRS and University of Strasbourg
