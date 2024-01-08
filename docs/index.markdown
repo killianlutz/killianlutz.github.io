@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# <span style="color:#e67e22"> In brief </span>
-
 PhD student in Quantum Control 
 
 Institut de Recherche Mathématique Avancée (IRMA)
