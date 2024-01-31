@@ -4,7 +4,11 @@
 
 layout: home
 ---
-
+PhD student in Quantum Control with main interests
+- Inverse problems,
+- Optimization,
+- Numerical analysis.
+  
 **Contact**
 --
 Office 225 <br>
