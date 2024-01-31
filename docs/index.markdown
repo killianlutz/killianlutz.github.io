@@ -4,13 +4,14 @@
 
 layout: home
 ---
+
+# <span style="color:#e67e22"> In brief </span>
 PhD student in Quantum Control with main interests
 - Inverse problems,
 - Optimization,
 - Numerical analysis.
   
-**Contact**
---
+# <span style="color:#e67e22"> Contact </span>
 Office 225 <br>
 Institut de Recherche Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)) <br>
 7 Rue René Descartes, <br>
