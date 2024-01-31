@@ -6,7 +6,7 @@ layout: home
 ---
 
 # <span style="color:#e67e22"> In brief </span>
-PhD student in Quantum Control with main interests
+PhD student in Quantum Control with main interests in
 - Inverse problems,
 - Optimization,
 - Numerical analysis.
