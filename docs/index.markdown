@@ -6,7 +6,6 @@ layout: home
 title: Home
 ---
 
-# <span style="color:#e67e22"> In brief </span>
 PhD student in Quantum Control with main interests in
 - Inverse problems,
 - Optimization,
