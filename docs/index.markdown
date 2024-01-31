@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 
 # <span style="color:#e67e22"> In brief </span>
