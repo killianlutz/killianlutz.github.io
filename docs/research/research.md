@@ -10,6 +10,6 @@ permalink: /research
 
 # <span style="color:#e67e22"> Talks </span>
 
-3. May 2024, [CANUM](https://canum2024.math.cnrs.fr/en/), *Poster: Time-optimal and noise-aware synthesis of quantum gates by homotopy*. 
-2. January 2024, [PEPR PDE AI](https://pde-ai.math.cnrs.fr/events/kickoff_jan_24/), first scientific meeting (20'). *Model Reduction of Individual-Based Models in Epidemiology: Optimal Control Theory & Reinforcement*. [Beamer](https://seafile.unistra.fr/f/347605db6a734080b60e/?dl=1)
-1. June 2022, [ECCOMAS](https://www.eccomas2022.org/frontal/ProgSesion.asp?id=58) conference (20'). *Towards Model Reduction of Individual-Based Models in Epidemiology: when Reinforcement Learning meets Control Theory*. [Beamer](https://seafile.unistra.fr/f/1dfbf032e3ff4e95893c/?dl=1)
+3 - May 2024, [CANUM](https://canum2024.math.cnrs.fr/en/), *Poster: Time-optimal and noise-aware synthesis of quantum gates by homotopy*. 
+2 - January 2024, [PEPR PDE AI](https://pde-ai.math.cnrs.fr/events/kickoff_jan_24/), first scientific meeting (20'). *Model Reduction of Individual-Based Models in Epidemiology: Optimal Control Theory & Reinforcement*. [Beamer](https://seafile.unistra.fr/f/347605db6a734080b60e/?dl=1)
+1 - June 2022, [ECCOMAS](https://www.eccomas2022.org/frontal/ProgSesion.asp?id=58) conference (20'). *Towards Model Reduction of Individual-Based Models in Epidemiology: when Reinforcement Learning meets Control Theory*. [Beamer](https://seafile.unistra.fr/f/1dfbf032e3ff4e95893c/?dl=1)
