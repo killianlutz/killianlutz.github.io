@@ -6,16 +6,13 @@ layout: home
 title: Home
 ---
 
-PhD student in Quantum Control with main interests in
-- Inverse problems,
-- Optimization,
-- Numerical analysis.
+PhD student in Quantum Control with main interests in inverse problems, optimization and numerical analysis.
   
 # <span style="color:#e67e22"> Contact </span>
 Institut de Recherche Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)) <br>
 7 Rue René Descartes, <br>
 67000 Strasbourg, France. <br>
-Office 203 at [UFR](https://mathinfo.unistra.fr/) de Mathématiques-Informatique.
+Office 226 at [UFR](https://mathinfo.unistra.fr/) de Mathématiques-Informatique.
 
 
 <img src="./data/logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 60px; float: bottom;"/>
