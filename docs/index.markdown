@@ -10,7 +10,7 @@ PhD student in Quantum Control with main interests in inverse problems, optimiza
 
 
 <video 
-    src="https://github.com/user-attachments/assets/4a091192-1b7c-4501-b9c2-72a0c95fc1ee" 
+    src="https://github.com/user-attachments/assets/41a08a78-ebfa-4e65-a1e9-c62451ca62b0" 
     controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit"      style="height:120px; width: 240px">
 </video>
 
