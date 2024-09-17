@@ -10,8 +10,8 @@ PhD student in Quantum Control with main interests in inverse problems, optimiza
 
 
 <video 
-    src="[https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5](https://github.com/user-attachments/assets/4a091192-1b7c-4501-b9c2-72a0c95fc1ee)" 
-    controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit"      style="height:240px">
+    src="https://github.com/user-attachments/assets/4a091192-1b7c-4501-b9c2-72a0c95fc1ee" 
+    controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit"      style="height:120px; width: 240px">
 </video>
 
 
