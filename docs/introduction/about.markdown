@@ -8,7 +8,7 @@ My PhD project deals with control of open quantum systems applied to quantum inf
 
 # <span style="color:#e67e22"> PhD project highlights </span>
 
-The aim of the PhD project is to develop numerical methods suited to the **control** of *non-isolated* discrete quantum systems known as *qudits*. The latter are analoguous to 'bits' in classical computing and the underlying mathematical model is the *GKS-Lindblad* equation. 
+The aim of the PhD project is to develop numerical methods suited to the *control* of *non-isolated* discrete quantum systems known as *qudits*. The latter are analoguous to 'bits' in classical computing and the underlying mathematical model is the *GKS-Lindblad* equation. 
 
 This topic is of interest in the field of quantum computing. For instance, given a logical operation (e.g. NOT gate in classical computing) the aim is to find appropriate *electro-magnetic pulses* whose effect on qudits is the same as the theoretical description of the logical operation.
 You may find a brief interactive introduction to this matter in the following Git [repository](https://github.com/killianlutz/BlochBallAnim.jl).
