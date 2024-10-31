@@ -10,6 +10,7 @@ permalink: /research
 
 # <span style="color:#e67e22"> Talks </span>
 
+5. Octobre 2024, [CJC-MA](https://cjc-ma2024.sciencesconf.org/?lang=fr) (25'). *Minimal time control of variable frequency oscillators*.
 4. October 2024, [New Trends in Quantum Control](https://sites.google.com/view/qcontrol-2024/home), *Poster: Time-optimal and noise-aware synthesis of quantum gates by homotopy*. 
 3. May 2024, [CANUM](https://canum2024.math.cnrs.fr/en/), *Poster: Time-optimal and noise-aware synthesis of quantum gates by homotopy*. 
 2. January 2024, [PEPR PDE AI](https://pde-ai.math.cnrs.fr/events/kickoff_jan_24/), first scientific meeting (20'). *Model Reduction of Individual-Based Models in Epidemiology: Optimal Control Theory & Reinforcement*. [Beamer](https://seafile.unistra.fr/f/347605db6a734080b60e/?dl=1)
