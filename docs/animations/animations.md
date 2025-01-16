@@ -27,17 +27,6 @@ Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOpti
 </video>
 
 --- 
-# <span style="color:#e67e22"> Flow of the Lotka-Volterra ODE </span>
-Qualitative analysis of differential equations and their linearizations about fixed points. 
-
-Try it for yourself: [Interactive animation](https://github.com/killianlutz/LVDemo.jl)
-
-<video 
-    src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/3ae90cd5-3e1a-470b-9273-efc3d2118514" 
-    controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
-</video>
-
---- 
 # <span style="color:#e67e22"> Discrete Fourier Transform & Compression </span>
 Interactive analysis of your own time-signal. Assess the compression quality by listening to the original sampled signal and its compressed version.
 
