@@ -19,4 +19,4 @@ permalink: /research
 
 # <span style="color:#e67e22"> Events </span>
 
-1. March 17-18, 2025, Workshop: “[Quantum Lo](https://iecl.univ-lorraine.fr/events/quantum-lo-controle-quantique-en-lorraine/) : contrôle quantique en Lorraine“, IECL, Nancy (Organized with [Alessandro Duca](https://iecl.univ-lorraine.fr/membre-iecl/duca-alessandro-2/) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr/)).
+1. March 2025, Workshop: “[Quantum Lo](https://iecl.univ-lorraine.fr/events/quantum-lo-controle-quantique-en-lorraine/) : contrôle quantique en Lorraine“, IECL, Nancy (Organized with [Alessandro Duca](https://iecl.univ-lorraine.fr/membre-iecl/duca-alessandro-2/) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr/)).
