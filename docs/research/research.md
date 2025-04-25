@@ -10,6 +10,9 @@ permalink: /research
 
 # <span style="color:#e67e22"> Talks </span>
 
+11. June 2025, [SMAI](https://smai2025.math.cnrs.fr/en/) (30'). *Quantum gate synthesis on noisy qudits: estimates on the minimal time controls achieving maximal accuracy*.
+10. May 2025, [ANR Stoiques](https://membres-ljk.imag.fr/Charles.Dapogny/stoiques.html) (90'). *Minimal-time control of underdamped parametric oscillators*.
+9. April 2025, GT INRIA SPHINX (90'). *Minimal-time control of underdamped parametric oscillators*.
 8. March 2025, [Quantum Lo](https://iecl.univ-lorraine.fr/events/quantum-lo-controle-quantique-en-lorraine/) (30'). *Quantum gate synthesis on noisy qudits: estimates on the minimal time controls achieving maximal accuracy*.
 7. Octobre 2024, [CJC-MA](https://cjc-ma2024.sciencesconf.org/?lang=fr) (25'). *Minimal time control of variable frequency oscillators*.
 6. October 2024, [New Trends in Quantum Control](https://sites.google.com/view/qcontrol-2024/home), *Poster: Time-optimal and noise-aware synthesis of quantum gates by homotopy*.
