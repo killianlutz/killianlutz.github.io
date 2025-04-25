@@ -6,8 +6,8 @@ permalink: /miscellaneous
 
 # <span style="color:#e67e22"> Involvement </span>
 
-1. April 2024, Strasbourg, RJMI (15 hours). Project supervision.
-2. April 2025, Strasbourg, TFJM2 (8 hours). Jury member.
+1. April 2025, Strasbourg, TFJM2 (8 hours). Jury member.
+2. April 2024, Strasbourg, RJMI (15 hours). Project supervision.
 
 # <span style="color:#e67e22"> Presentations </span>
 
