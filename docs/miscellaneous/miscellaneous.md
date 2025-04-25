@@ -15,4 +15,4 @@ permalink: /miscellaneous
 
 # <span style="color:#e67e22"> Others </span>
 
-- Overview of Galerkin's method for Burgers' equation. [Document](https://seafile.unistra.fr/f/b72ea8591f65402caed2/)
+1. Overview of Galerkin's method for Burgers' equation. [Document](https://seafile.unistra.fr/f/b72ea8591f65402caed2/)
