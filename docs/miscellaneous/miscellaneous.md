@@ -4,6 +4,11 @@ title: Miscellaneous
 permalink: /miscellaneous
 ---
 
+# <span style="color:#e67e22"> Involvement </span>
+
+1. April 2024, Strasbourg, RJMI (15 hours). Project supervision.
+2. April 2025, Strasbourg, TFJM2 (8 hours). Jury member.
+
 # <span style="color:#e67e22"> Presentations </span>
 
 2. June 2024, IRMA PhD students seminar (60'). *Total variation for image denoising and Chambolle's duality algorithm*. [Beamer](https://seafile.unistra.fr/f/c7ba65d63169455dbf64/) [Animation](https://seafile.unistra.fr/d/41801c0194eb49cbbe22/)
