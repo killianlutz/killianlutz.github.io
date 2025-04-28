@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My PhD project deals with control of open quantum systems applied to quantum information. It is supervised by [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL). We collaborate with physicists from the team [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) (Quantum Dynamics of Nano-Objects) at IPCMS.
+I work on optimal control of (open) quantum systems and its applications to quantum computing. This work is carried out under the supervision of [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL). and in close collaboration with physicists from the team [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) (Quantum Dynamics of Nano-Objects) at IPCMS.
 
 # <span style="color:#e67e22"> PhD project highlights </span>
 
