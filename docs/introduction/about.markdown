@@ -10,7 +10,7 @@ I work on the optimal control of (open) quantum systems and its applications to 
 
 We aim to develop numerical methods suited to the *control* of *non-isolated* discrete quantum systems modelled by the *GKS-Lindblad* equation. We are especially interested in qu*d*its, an alternative to the quantum analogue of 'bits' in classical computing. 
 
-An example of such control problem relates to running algorithms on a quantum computer. Given a quantum algorithm, we study and estimate numerically the optimal experimental setup driving qudits from an the "input" logical value to the desired "output" logicial value. Optimality means running the algorithm as quickly and with as little errors as possible. 
+An example of such control problem relates to running algorithms on a quantum computer. Given a quantum algorithm, we study and estimate numerically the optimal experimental setup driving qudits from an the "input" logical value to the desired "output" logicial value. Optimality is to be understood as running the algorithm as quickly and with as little errors as possible. 
 
 Brief interactive [introduction](https://github.com/killianlutz/BlochBallAnim.jl) to this matter.
 
