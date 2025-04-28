@@ -12,7 +12,7 @@ We aim to develop numerical methods suited to the *control* of *non-isolated* di
 
 An example of such control problem relates to running algorithms on a quantum computer. Given a model and a quantum algorithm, we study and estimate numerically the optimal experimental setup driving qudits from an the "input" logical value to the desired "output" logicial value. Optimality means running the algorithm as quickly and with as little errors as possible. 
 
-Brief interactive [introduction](https://github.com/killianlutz/BlochBallAnim.jl)) to this matter.
+Brief interactive [introduction](https://github.com/killianlutz/BlochBallAnim.jl) to this matter.
 
 What makes this task challenging? Mathematically it is about *non-linear* control theory. Numerically, it is about optimizing a criterion which depends upon *exponentially many* variables.
 
