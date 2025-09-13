@@ -9,11 +9,8 @@ title: Home
 Research interests: optimization, control, inverse problems and numerical analysis.
 
 
-<video 
-    src="https://github.com/user-attachments/assets/7f0a53ef-39d4-4743-ae3e-6fd060955420" 
-    controls="controls"
-    muted="muted"
-    type="video/mp4"
+<video controls autplay muted
+    src="https://github.com/user-attachments/assets/7f0a53ef-39d4-4743-ae3e-6fd060955420" type="video/mp4"
     style="height:240px; width: 480px">
 </video>
 
@@ -26,5 +23,6 @@ Office 226 at [UFR](https://mathinfo.unistra.fr/) de Mathématiques-Informatique
 
 <img src="./data/logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 60px; float: bottom;"/>
 <img src="./data/logos/Signature_Universite_Strasbourg_Unistra2_Blanc.png" alt="logo UNISTRA" style="height: 60px; float: bottom;"/>
+
 
 
