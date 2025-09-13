@@ -8,8 +8,9 @@ title: Home
 
 Research interests: optimization, control, inverse problems and numerical analysis.
 
+
 <video 
-    src="https://github.com/user-attachments/assets/7f689b62-ed6f-45bb-916f-02a97f70050c" 
+    src="https://github.com/user-attachments/assets/6a772bfd-8aba-4727-966b-aee7984c3bfb" 
     controls="controls" muted="muted"
     style="height:240px; width: 480px">
 </video>
