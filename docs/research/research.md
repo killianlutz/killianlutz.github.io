@@ -4,17 +4,22 @@ title: Research
 permalink: /research
 ---
 
-# <span style="color:#e67e22"> Publications </span>
+[ORCID](https://orcid.org/0009-0009-1732-3723).
+
+# <span style="color:#e67e22"> Preprints </span>
 
 4. *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. Preprint. [HAL](https://hal.science/hal-05469937)
 3. *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. Preprint. [HAL](https://hal.science/hal-05176524)
 2. *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. Preprint. [HAL](https://hal.science/hal-05047678v2)
-1. *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. Optim Control Appl Meth. 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
 
-See also [ORCID](https://orcid.org/0009-0009-1732-3723).
+# <span style="color:#e67e22"> Publications </span>
+
+1. *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. **Optim Control Appl Meth.** 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
 
 # <span style="color:#e67e22"> Talks </span>
 
+13. January 2026, [ANR QuBiCCS](https://iecl.univ-lorraine.fr/events/rencontre-anr-qubiccs/) (60'). *Parametric resonance and optimal control of oscillators*.
+12. September 2025, [IECL PhD students seminar](https://iecl.univ-lorraine.fr/events/killian-lutz/) (60'). *Total variation image denoising*.
 11. June 2025, [SMAI](https://smai2025.math.cnrs.fr/en/) (30'). *Quantum gate synthesis on noisy qudits: estimates on the minimal time controls achieving maximal accuracy*.
 10. May 2025, [ANR Stoiques](https://membres-ljk.imag.fr/Charles.Dapogny/stoiques.html) (30'). *Minimal-time control of underdamped parametric oscillators*.
 9. April 2025, GT INRIA SPHINX (90'). *Minimal-time control of underdamped parametric oscillators*.
