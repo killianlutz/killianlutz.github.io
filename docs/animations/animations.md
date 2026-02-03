@@ -28,12 +28,13 @@ Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOpti
 
 --- 
 # <span style="color:#e67e22"> Modal perspective on the Courant number </span>
-Understand classical finite-differences schemes for the advection equation with periodic boundary conditions. Visualize the effects of the Courant number on eahc individual eigenvector of the correpsonding circulant iteration matrix. 
+Gain insight into classical finite-differences schemes for the advection equation with periodic boundary conditions. Visualize the effects of the Courant number on each eigenvector of the associated circulant iteration matrix. 
 
 <video 
     src="https://github.com/user-attachments/assets/6ed18e65-bd8a-4ac9-b5be-008335c85ace" 
     controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
 </video>
+
 
 
 
