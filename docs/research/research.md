@@ -10,7 +10,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 4. *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. **Preprint**. [HAL](https://hal.science/hal-05469937)
 3. *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. **Preprint**. [HAL](https://hal.science/hal-05176524)
-2. *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. **Preprint**. [HAL](https://hal.science/hal-05047678v2)
+2. *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. **Preprint**. [HAL](https://hal.science/hal-05047678v3)
 1. *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. **Optim Control Appl Meth.** 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
 
 # <span style="color:#e67e22"> Talks </span>
