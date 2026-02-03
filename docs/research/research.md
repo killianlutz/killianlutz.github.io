@@ -15,7 +15,8 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 # <span style="color:#e67e22"> Talks </span>
 
-13. January 2026, [ANR QuBiCCS](https://iecl.univ-lorraine.fr/events/rencontre-anr-qubiccs/) (60'). *Parametric resonance and optimal control of oscillators*. [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
+14. January 2026, [ANR QuBiCCS](https://iecl.univ-lorraine.fr/events/rencontre-anr-qubiccs/) (60'). *Parametric resonance and optimal control of oscillators*. [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
+13. October 2025, [PICOF](https://picof2025.sciencesconf.org/), *Poster: Parametric resonance and optimal control of oscillators*.
 12. September 2025, [IECL PhD students seminar](https://iecl.univ-lorraine.fr/events/killian-lutz/) (60'). *Total variation image denoising*.
 11. June 2025, [SMAI](https://smai2025.math.cnrs.fr/en/) (30'). *Quantum gate synthesis on noisy qudits: estimates on the minimal time controls achieving maximal accuracy*.
 10. May 2025, [ANR Stoiques](https://membres-ljk.imag.fr/Charles.Dapogny/stoiques.html) (30'). *Minimal-time control of underdamped parametric oscillators*.
