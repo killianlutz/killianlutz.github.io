@@ -27,14 +27,13 @@ Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOpti
 </video>
 
 --- 
-# <span style="color:#e67e22"> Discrete Fourier Transform & Compression </span>
-Interactive analysis of your own time-signal. Assess the compression quality by listening to the original sampled signal and its compressed version.
-
-Try it for yourself: [Interactive animation](https://github.com/killianlutz/DFTDemo1D)
+# <span style="color:#e67e22"> Modal perspective on the Courant number </span>
+Understand classical finite-differences schemes for the advection equation with periodic boundary conditions. Visualize the effects of the Courant number on eahc individual eigenvector of the correpsonding circulant iteration matrix. 
 
 <video 
-    src="https://github.com/killianlutz/DFTDemo1D/assets/152091888/49b085f1-35e2-42f3-b3eb-05aec48f37e8" 
+    src="https://github.com/user-attachments/assets/6ed18e65-bd8a-4ac9-b5be-008335c85ace" 
     controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
 </video>
+
 
 
