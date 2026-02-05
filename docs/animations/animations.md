@@ -32,7 +32,7 @@ Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOpti
 
 --- 
 
-# <span style="color:#815cdf"> Modal perspective on the Courant number </span>
+# <span style="color:#e67e22"> Modal perspective on the Courant number </span>
 Gain insight into classical finite-differences schemes for the advection equation with periodic boundary conditions. Visualize the effects of the Courant number on each eigenvector of the associated circulant iteration matrix. 
 
 <div align="center">
@@ -41,6 +41,7 @@ Gain insight into classical finite-differences schemes for the advection equatio
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
     </video>
 </div>
+
 
 
 
