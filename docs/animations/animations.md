@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Animations
-permalink: /animations
+title: Gallery
+permalink: /gallery
 ---
 
 # <span style="color:#e67e22"> Open qubits & Bloch ball </span>
@@ -34,6 +34,7 @@ Gain insight into classical finite-differences schemes for the advection equatio
     src="https://github.com/user-attachments/assets/6ed18e65-bd8a-4ac9-b5be-008335c85ace" 
     controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
 </video>
+
 
 
 
