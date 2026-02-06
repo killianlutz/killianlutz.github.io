@@ -14,11 +14,12 @@ Some keywords: Time minimal, Lindblad, Parametric resonance, Reduced models, Lea
 
 # <span style="color:#e67e22"> PhD project </span>
 
-I work under the supervision of <span style="color:#e67e22">[Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr)</span> and closely <span style="color:#e67e22">collaborate with physicists</span> of the group [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) at IPCMS.
+I work under the supervision of <span style="color:#800080">[Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr)</span> and closely <span style="color:#800080">collaborate with physicists</span> of the group [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) at IPCMS.
 
-I work on the <span style="color:#e67e22">optimal control of (open) quantum systems</span> and its applications to quantum computing. This involves non-linear control systems and high-dimensional optimization.
+I work on the <span style="color:#800080">optimal control of (open) quantum systems</span> and its applications to quantum computing. This involves non-linear control systems and high-dimensional optimization.
 
 Typically, given a quantum algorithm, we study and estimate numerically the best experimental setup driving noisy qudits from an the "input" logical value to the desired "output" logicial value. Here, best means running the algorithm as accurately and quickly as possible. 
+
 
 
 
