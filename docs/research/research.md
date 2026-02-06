@@ -26,7 +26,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 9. April 2025, GT INRIA SPHINX (90').
 8. March 2025, [Quantum Lo](https://iecl.univ-lorraine.fr/events/quantum-lo-controle-quantique-en-lorraine/) (30'). 
 7. Octobre 2024, [CJC-MA](https://cjc-ma2024.sciencesconf.org/?lang=fr) (25'). 
-6. October 2024, [New Trends in Quantum Control](https://sites.google.com/view/qcontrol-2024/home). Poster.
+6. October 2024, [New Trends in Quantum Control](https://sites.google.com/view/qcontrol-2024/home). Poster
 5. June 2024, IRMA PhD students seminar (60'). [Beamer](https://seafile.unistra.fr/f/c7ba65d63169455dbf64/) [Animation](https://seafile.unistra.fr/d/41801c0194eb49cbbe22/)
 4. May 2024, [CANUM](https://canum2024.math.cnrs.fr/en/). Poster
 3. February 2024, INRIA team MACARON workshop (20'). [Beamer](https://seafile.unistra.fr/f/28df2f00361f44cc88ac/) [Animation](https://seafile.unistra.fr/d/63ff6fa3139e4d2bbdec/)
