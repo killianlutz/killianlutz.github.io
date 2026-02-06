@@ -10,17 +10,16 @@ permalink: /about/
   - Inverse problems
   - Scientific computing
 
-Some keywords related to my work: 
-
-Lindblad, Qudits, Time minimal, A priori estimates, Parametric resonance, Reduced models, Learning
+Some keywords: Time minimal, Lindblad, Parametric resonance, Reduced models, Learning
 
 # <span style="color:#e67e22"> PhD project </span>
 
-I work on the optimal control of (open) quantum systems and its applications to quantum computing. This work is carried out under the supervision of [Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) (INRIA) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr) (IECL). We closely collaborate with the group of physicists [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) at IPCMS.
+I work under the supervision of <span style="color:#e67e22">[Emmanuel Franck](https://irma.math.unistra.fr/~franck/index.html) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr)</span> and closely <span style="color:#e67e22">collaborate with physicists</span> of the group [Q-Dyno](https://www.ipcms.fr/en/equipe/theoretical-quantum-dynamics-of-nano-objects-dyno/) at IPCMS.
 
-It is mathematically and numerically challenging because it is about *non-linear* control theory and *high-dimensional* optimization.
+I work on the <span style="color:#e67e22">optimal control of (open) quantum systems</span> and its applications to quantum computing. This involves non-linear control systems and high-dimensional optimization.
 
-An example of problems we consider relates to running algorithms on a quantum computer. Given an algorithm, we study and estimate numerically the optimal experimental setup driving noisy qudits from an the "input" logical value to the desired "output" logicial value. Here, optimal means running the algorithm as accurately and quickly as possible. 
+Typically, given a quantum algorithm, we study and estimate numerically the best experimental setup driving noisy qudits from an the "input" logical value to the desired "output" logicial value. Here, best means running the algorithm as accurately and quickly as possible. 
+
 
 
 
