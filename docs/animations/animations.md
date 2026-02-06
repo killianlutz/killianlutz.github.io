@@ -4,10 +4,8 @@ title: Gallery
 permalink: /gallery
 ---
 
-# <span style="color:#e67e22"> Open qubits & Bloch ball </span>
+# <span style="color:#e67e22"> Open qubits & Bloch ball </span> [Github](https://github.com/killianlutz/BlochBallAnim.jl)
 The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems known as qubits. 
-
-Try it for yourself: [Interactive animation](https://github.com/killianlutz/BlochBallAnim.jl)
 
 <div align="center">
     <video 
@@ -18,10 +16,8 @@ Try it for yourself: [Interactive animation](https://github.com/killianlutz/Bloc
 
 ---
 
-# <span style="color:#e67e22"> Optimization, the intuitive way </span>
+# <span style="color:#e67e22"> Optimization, the intuitive way </span> [Github](https://github.com/killianlutz/IntuitiveOptimization)
 Iterative algorithms require proper initializations. Does initialization matter? Find out by choosing all initializations at once! 
-
-Plenty other examples: [Animations](https://github.com/killianlutz/IntuitiveOptimization)
 
 <div align="center">
     <video 
@@ -41,6 +37,7 @@ Gain insight into classical finite-differences schemes for the advection equatio
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
     </video>
 </div>
+
 
 
 
