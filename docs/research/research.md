@@ -9,12 +9,12 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 # <span style="color:#e67e22"> Preprints </span>
 
 3. <span style="color:#3F51B5">Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability</span>. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. [HAL](https://hal.science/hal-05469937)
-2. <span style="color:#78184A">Time Optimal Synthesis of Gates for Markovian Open Qudits</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05176524)
-1. <span style="color:#78184A">Minimal Time Control of Underdamped Parametric Oscillators</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05047678v3)
+2. <span style="color:#3F51B5">Time Optimal Synthesis of Gates for Markovian Open Qudits</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05176524)
+1. <span style="color:#3F51B5">Minimal Time Control of Underdamped Parametric Oscillators</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05047678v3)
 
 # <span style="color:#e67e22"> Publications </span>
 
-1. <span style="color:#009688">Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity</span>. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. **Optim Control Appl Meth.** 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
+1. <span style="color:#3F51B5">Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity</span>. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. **Optim Control Appl Meth.** 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
 
 # <span style="color:#e67e22"> Oral communications </span>
 
