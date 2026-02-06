@@ -11,7 +11,7 @@ permalink: /teaching
   - Individual projects, mock exams, practical and exercise sessions.
   - Course material I developped: [Project](https://mybox.inria.fr/f/f30a7f2df05a499d9c89/?dl=1) [Practicals](https://seafile.unistra.fr/d/a977178f26894089aaec/)
 
-### Bachelor 3, Measure theory and probabilities: 
+### Bachelor 3, Measure theory and probabilities ([course instructor](https://irma.math.unistra.fr/~gardes/)): 
   - 1 year, 18 hours per year.
   - Exercise sessions.
 
