@@ -8,7 +8,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 # <span style="color:#e67e22"> Preprints </span>
 
-3. <span style="color:#009688">Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability</span>. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. [HAL](https://hal.science/hal-05469937)
+3. <span style="color:#3F51B5">Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability</span>. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. [HAL](https://hal.science/hal-05469937)
 2. <span style="color:#78184A">Time Optimal Synthesis of Gates for Markovian Open Qudits</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05176524)
 1. <span style="color:#78184A">Minimal Time Control of Underdamped Parametric Oscillators</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05047678v3)
 
