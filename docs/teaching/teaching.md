@@ -6,7 +6,7 @@ permalink: /teaching
 
 # <span style="color:#e67e22"> University of Strasbourg (2023 - 2026) </span>
 
-### Master 2, Agregation of mathematics (scientific computing)
+### Master 2, Scientific computing (agrégation de mathématiques)
   - 3 years, 32 hours per year. [Course instructor](https://navoret.pages.math.unistra.fr/)
   - Individual projects, mock exams, practical and exercise sessions.
   - <span style="color:#800080">Course content I created</span>: [Project](https://seafile.unistra.fr/f/d3879d4e699e4c62ae16/) [Notebooks](https://seafile.unistra.fr/d/aef044d2649747c9990a/) [Subject](https://seafile.unistra.fr/f/016fd0ce7d3b44c59d05/)
