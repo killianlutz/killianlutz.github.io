@@ -4,6 +4,12 @@ title: Gallery
 permalink: /gallery
 ---
 
+My two preferred languages for scientific computing are Julia and Python, especially its JAX ecosystem. 
+
+On a daily basis I use Julia as my go-to language, both for building complex educational animations and for solving non-linear control problems in the optimize-then-discretize paradigm. Some examples are given below or on my Github [page](https://github.com/killianlutz).
+
+I lean towards JAX to quickly implement proofs of concept by leveraging its automatic differentiation capabilities or carry computations on GPUs. For the past three years I have supervised practical sessions on scientific computing in Python for Master 2 students. 
+
 # <span style="color:#e67e22"> Open qubits & Bloch ball </span> 
 [Git repository](https://github.com/killianlutz/BlochBallAnim.jl)
 
@@ -41,6 +47,7 @@ Gain insight into classical finite-differences schemes for the advection equatio
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
     </video>
 </div>
+
 
 
 
