@@ -10,7 +10,7 @@ permalink: /about/
   - Inverse problems
   - Scientific computing
 
-Some keywords: Time minimal, Lindblad, Parametric resonance, Reduced models, Learning
+Some keywords: Time minimal, Bilinear control, Lindblad, Parametric resonance, Reduced models
 
 # <span style="color:#e67e22"> PhD project </span>
 
@@ -19,6 +19,7 @@ I work under the supervision of [Emmanuel Franck](https://irma.math.unistra.fr/~
 I work on the <span style="color:#800080">optimal control of (open) quantum systems</span> and its applications to quantum computing. This involves non-linear control systems and high-dimensional optimization.
 
 Typically, given a quantum algorithm we study and estimate numerically the best experimental setup driving noisy qudits from an the "input" logical value to the desired "output" logicial value. Here, best means running the algorithm as accurately and quickly as possible. 
+
 
 
 
