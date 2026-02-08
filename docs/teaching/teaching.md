@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-# <span style="color:#e67e22"> University of Strasbourg (2023 - 2026) </span>
+### <span style="color:#e67e22"> University of Strasbourg (2023 - 2026) </span>
 
 ### Master 2, Scientific computing (agrégation)
   - 3 years, 32 hours per year. [Course instructor](https://navoret.pages.math.unistra.fr/)
