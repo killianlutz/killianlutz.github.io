@@ -22,23 +22,23 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 # <span style="color:#e67e22"> Oral communications (14) </span>
 
 2026 <br>
-14. January, ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
+14. January, Nancy. ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
 
 2025 <br>
-13. October, PICOF. [Poster](https://seafile.unistra.fr/f/60d19f055186449c89dc/)
-12. September, IECL PhD students seminar (60').
-11. June, SMAI (30'). 
-10. May, ANR Stoiques (30'). 
-9. April, GT INRIA Sphinx (90').
-8. March, Quantum Lo (30'). 
+13. October, Tunisia. PICOF. [Poster](https://seafile.unistra.fr/f/60d19f055186449c89dc/)
+12. September, Nancy. IECL PhD students seminar (60').
+11. June, Carcans. SMAI (30'). 
+10. May, Autrans. ANR Stoiques (30'). 
+9. April, Nancy. GT INRIA Sphinx (90').
+8. March, Nancy. Quantum Lo (30'). 
 
 2024 <br>
-7. October, CJC-MA (25'). 
-6. October, New Trends in Quantum Control. Poster
-5. June, IRMA PhD students seminar (60'). [Beamer](https://seafile.unistra.fr/f/c7ba65d63169455dbf64/) [Animation](https://seafile.unistra.fr/d/41801c0194eb49cbbe22/)
-4. May, CANUM. Poster
-3. February, INRIA Macaron (20'). [Beamer](https://seafile.unistra.fr/f/28df2f00361f44cc88ac/) [Animation](https://seafile.unistra.fr/d/63ff6fa3139e4d2bbdec/)
-2. January, PEPR PDE AI (20').
+7. October, Lyon. CJC-MA (25'). 
+6. October, Nice. New Trends in Quantum Control. Poster
+5. May, Strasbourg. IRMA PhD students seminar (60'). [Beamer](https://seafile.unistra.fr/f/c7ba65d63169455dbf64/) [Animation](https://seafile.unistra.fr/d/41801c0194eb49cbbe22/)
+4. April, Ile de Ré. CANUM. Poster
+3. February, Belmont. INRIA Macaron (20'). [Beamer](https://seafile.unistra.fr/f/28df2f00361f44cc88ac/) [Animation](https://seafile.unistra.fr/d/63ff6fa3139e4d2bbdec/)
+2. January, Paris. PEPR PDE AI (20').
 
 2022 <br>
-1. June, ECCOMAS (20'). [Beamer](https://seafile.unistra.fr/f/1dfbf032e3ff4e95893c/?dl=1)
+1. June, Norway. ECCOMAS (20'). [Beamer](https://seafile.unistra.fr/f/1dfbf032e3ff4e95893c/?dl=1)
