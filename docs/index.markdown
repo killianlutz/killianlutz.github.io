@@ -11,7 +11,7 @@ PhD student at Inria Macaron in Strasbourg
         muted 
         autoplay 
         style="height:240; width: 240">
-      <source src="data/nesterov.mp4" type="video/mp4">
+      <source src="data/duffing_chaos.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </div>
@@ -24,6 +24,7 @@ Office 226 at [UFR](https://mathinfo.unistra.fr/) de Mathématiques-Informatique
 
 <img src="./data/logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 60px; float: bottom;"/>
 <img src="./data/logos/Signature_Universite_Strasbourg_Unistra2_Blanc.png" alt="logo UNISTRA" style="height: 60px; float: bottom;"/>
+
 
 
 
