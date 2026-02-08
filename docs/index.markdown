@@ -17,13 +17,14 @@ PhD student at Inria Macaron in Strasbourg
 </div>
 
 # <span style="color:#e67e22"> Contact </span>
-Institut de Recherche Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)) <br>
+Institut de Recherche Mathématique Avancée <br>
 7 Rue René Descartes, <br>
 67000 Strasbourg, France. <br>
 Office 226 at [UFR](https://mathinfo.unistra.fr/) de Mathématiques-Informatique.
 
 <img src="./data/logos/inr_logo_rouge.png" alt="logo INRIA" style="height: 60px; float: bottom;"/>
 <img src="./data/logos/Signature_Universite_Strasbourg_Unistra2_Blanc.png" alt="logo UNISTRA" style="height: 60px; float: bottom;"/>
+
 
 
 
