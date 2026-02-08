@@ -40,7 +40,7 @@ Iterative algorithms require proper initializations. Does initialization matter?
 
 ### <span style="color:#e67e22"> Modal perspective on transport equations </span>
 
-Expore the effect of numerical diffusion and the Courant number on eigenvectors of circulant finite-difference matrices.
+Expore the effect of numerical diffusion and the Courant number on eigenvectors of circulant finite-differences matrices.
 
 <div align="center">
     <video 
@@ -48,6 +48,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
     </video>
 </div>
+
 
 
 
