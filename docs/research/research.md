@@ -38,7 +38,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 5. June, IRMA PhD students seminar (60'). [Beamer](https://seafile.unistra.fr/f/c7ba65d63169455dbf64/) [Animation](https://seafile.unistra.fr/d/41801c0194eb49cbbe22/)
 4. May, CANUM. Poster
 3. February, INRIA Macaron (20'). [Beamer](https://seafile.unistra.fr/f/28df2f00361f44cc88ac/) [Animation](https://seafile.unistra.fr/d/63ff6fa3139e4d2bbdec/)
-2. January, PEPR PDE AI (20'). [Beamer](https://seafile.unistra.fr/f/347605db6a734080b60e/?dl=1)
+2. January, PEPR PDE AI (20').
 
 2022 <br>
 1. June, ECCOMAS (20'). [Beamer](https://seafile.unistra.fr/f/1dfbf032e3ff4e95893c/?dl=1)
