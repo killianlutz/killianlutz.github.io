@@ -6,7 +6,7 @@ permalink: /research
 
 For full references, consider checking out my [ORCID](https://orcid.org/0009-0009-1732-3723) profil.
 
-# <span style="color:#e67e22"> Preprints (3) </span>
+### <span style="color:#e67e22"> Preprints (3) </span>
 3. 2026, *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. <br>
   Submitted to: <span style="color:#800080">Physical Review Letters</span>. [HAL](https://hal.science/hal-05469937)
 2. 2025, *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. <br>
@@ -14,12 +14,12 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 1. 2025, *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. <br>
   Submitted to: <span style="color:#800080">SIAM Control and Optimization</span>. [HAL](https://hal.science/hal-05047678v3)
 
-# <span style="color:#e67e22"> Publications (1)</span>
+### <span style="color:#e67e22"> Publications (1)</span>
 
 1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. <br>
   Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [HAL](https://hal.science/hal-03664271v3) [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970)
 
-# <span style="color:#e67e22"> Oral communications (14) </span>
+### <span style="color:#e67e22"> Oral communications (14) </span>
 
 2026 <br>
 14. January, Nancy. ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
