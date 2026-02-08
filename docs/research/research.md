@@ -7,14 +7,21 @@ permalink: /research
 For full references, consider checking out my [ORCID](https://orcid.org/0009-0009-1732-3723) profil.
 
 # <span style="color:#e67e22"> Preprints </span>
+### 2026
+3. *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. <br>
+  Submitted to: <span style="color:#800080">Physical Review Letters</span>. [HAL](https://hal.science/hal-05469937)
 
-3. <span style="color:#800080">Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability</span>. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. [HAL](https://hal.science/hal-05469937)
-2. <span style="color:#800080">Time Optimal Synthesis of Gates for Markovian Open Qudits</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05176524)
-1. <span style="color:#800080">Minimal Time Control of Underdamped Parametric Oscillators</span>. Lutz K, Privat Y. [HAL](https://hal.science/hal-05047678v3)
+### 2025
+2. *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. <br>
+  Submitted to: <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [HAL](https://hal.science/hal-05176524)
+1. *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. <br>
+  Submitted to: <span style="color:#800080">SIAM Control and Optimization</span>. [HAL](https://hal.science/hal-05047678v3)
 
 # <span style="color:#e67e22"> Publications </span>
 
-1. <span style="color:#800080">Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity</span>. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. **Optim Control Appl Meth.** 2023; 1-35. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
+### 2023
+1. *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. <br>
+  Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970) [ArXiv](https://arxiv.org/abs/2205.06539)
 
 # <span style="color:#e67e22"> Oral communications </span>
 
