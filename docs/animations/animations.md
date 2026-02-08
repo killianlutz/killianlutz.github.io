@@ -20,8 +20,7 @@ Iterative algorithms require proper initializations. Does initialization matter?
     <video 
         controls 
         muted 
-        autoplay 
-        style="height: 240px">
+        style="height: 250px; width: 250px">
       <source src="data/nesterov.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -34,7 +33,7 @@ The Bloch ball is a fundamental tool which provides a geometrical interpretation
 <div align="center">
     <video 
         src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5" 
-        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
+        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
 
@@ -44,9 +43,10 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
 <div align="center">
     <video 
         src="https://github.com/user-attachments/assets/6ed18e65-bd8a-4ac9-b5be-008335c85ace" 
-        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
+        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
