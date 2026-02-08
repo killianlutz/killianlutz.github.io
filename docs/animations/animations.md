@@ -11,10 +11,10 @@ On a daily basis I use Julia as my go-to language, both for building complex <sp
 I use JAX to implement <span style="color:#800080">proofs of concept</span> by leveraging its <span style="color:#800080">automatic differentiation</span> capabilities to solve control problems in the discretize-then-optimize paradigm on GPUs.
 
 ### <span style="color:#e67e22"> Open qubits & Bloch ball </span> 
+[Repository](https://github.com/killianlutz/BlochBallAnim.jl)
 
 The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems. 
 
-<div align="center"> [Github](https://github.com/killianlutz/BlochBallAnim.jl) </div>
 <div align="center">
     <video 
         src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5" 
@@ -25,10 +25,10 @@ The Bloch ball is a fundamental tool which provides a geometrical interpretation
 ---
 
 ### <span style="color:#e67e22"> Optimization, the intuitive way </span> 
+[Repository](https://github.com/killianlutz/IntuitiveOptimization)
 
 Iterative algorithms require proper initializations. Does initialization matter? Find out by choosing all initializations at once! 
 
-<div align="center"> [Github](https://github.com/killianlutz/IntuitiveOptimization) </div>
 <div align="center">
     <video 
         src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/74b54c95-e8e4-46a5-85c0-c19b6790cc87" 
@@ -38,9 +38,9 @@ Iterative algorithms require proper initializations. Does initialization matter?
 
 --- 
 
-### <span style="color:#e67e22"> Modal perspective on numerical diffusion </span>
+### <span style="color:#e67e22"> Modal perspective on transport equations </span>
 
-Expore artificial diffusion and the effect of the Courant number on eigenvectors of a circulant finite-difference matrix for transport equations.
+Expore the effect of numerical diffusion and the Courant number on eigenvectors of circulant finite-difference matrices.
 
 <div align="center">
     <video 
@@ -48,6 +48,7 @@ Expore artificial diffusion and the effect of the Courant number on eigenvectors
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height:240px">
     </video>
 </div>
+
 
 
 
