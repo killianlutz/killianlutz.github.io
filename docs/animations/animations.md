@@ -40,7 +40,7 @@ Watch the collisions of eigenvalues as we vary the weight of a convex combinatio
 </div>
 
 ### <span style="color:#e67e22"> Singularity of the value function </span> 
-Either one or exactly two time-minimal controls for a bilinear control system. Learn more about this example in our [paper](https://hal.science/hal-05047678v3).
+Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal controls for a bilinear control system.
 
 <div align="center">
     <video 
@@ -72,6 +72,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
