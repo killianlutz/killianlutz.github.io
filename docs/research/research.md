@@ -8,16 +8,16 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 ### <span style="color:#e67e22"> Preprints (3) </span>
 3. 2026, *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. <br>
-  Submitted to: <span style="color:#800080">Physical Review Letters</span>. [HAL](https://hal.science/hal-05469937)
+  Submitted to: <span style="color:#800080">Physical Review Letters</span>. [Paper](https://hal.science/hal-05469937)
 2. 2025, *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. <br>
-  Submitted to: <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [HAL](https://hal.science/hal-05176524)
+  Submitted to: <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [Paper](https://hal.science/hal-05176524)
 1. 2025, *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. <br>
-  Submitted to: <span style="color:#800080">SIAM Control and Optimization</span>. [HAL](https://hal.science/hal-05047678v3)
+  Submitted to: <span style="color:#800080">SIAM Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
 
 ### <span style="color:#e67e22"> Publications (1)</span>
 
 1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. <br>
-  Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [HAL](https://hal.science/hal-03664271v3) [OCAM](https://onlinelibrary.wiley.com/doi/10.1002/oca.2970)
+  Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
 ### <span style="color:#e67e22"> Oral communications (14) </span>
 
