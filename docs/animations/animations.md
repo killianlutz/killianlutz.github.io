@@ -37,6 +37,19 @@ The Bloch ball is a fundamental tool which provides a geometrical interpretation
     </video>
 </div>
 
+### <span style="color:#e67e22"> Paths of eigenvalues </span> 
+Watch the collisions of eigenvalues as we vary the weight of a convex combination of matrices.
+
+<div align="center">
+    <video 
+        controls 
+        muted 
+        style="height: 250px; width: 250px">
+      <source src="data/eigcvx.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+</div>
+
 ### <span style="color:#e67e22"> Modal perspective on transport equations </span>
 Expore the effect of numerical diffusion and the Courant number on eigenvectors of circulant finite-differences matrices.
 
@@ -46,6 +59,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
