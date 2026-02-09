@@ -8,7 +8,7 @@ My two preferred languages for scientific computing are <span style="color:#8000
 
 I use Julia as my go-to language, both for building complex <span style="color:#800080">educational animations</span> using Makie and in my research to solve <span style="color:#800080">non-linear control</span> problems in the optimize-then-discretize paradigm.
 
-I use JAX to implement <span style="color:#800080">proofs of concept</span> by leveraging its <span style="color:#800080">automatic differentiation</span> capabilities to solve on GPUs control problems in the discretize-then-optimize paradigm.
+I use JAX to implement <span style="color:#800080">proofs of concept</span> by leveraging its <span style="color:#800080">automatic differentiation</span> capabilities to solve control problems in the discretize-then-optimize paradigm.
 
 ***
 
@@ -46,6 +46,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
