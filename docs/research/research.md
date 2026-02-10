@@ -20,9 +20,9 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
   Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
 <p align="center">
-  <img src="data/qubits.png" width="30%" />
-  <img src="data/contourTkr.png" width="30%" />
-  <img src="data/floquet2D.png" width="30%" />
+  <a href="https://hal.science/hal-05176524"><img src="data/qubits.png" width="30%" /></a>
+  <a href="https://hal.science/hal-05047678v3"><img src="data/contourTkr.png" width="30%" /></a>
+  <a href="https://hal.science/hal-05469937"><img src="data/floquet2D.png" width="30%" /></a>
 </p>
 
 ### <span style="color:#e67e22"> Oral communications (14) </span>
