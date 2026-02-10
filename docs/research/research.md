@@ -19,6 +19,12 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. <br>
   Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
+<p align="center">
+  <img src="data/qubits.png" width="30%" />
+  <img src="data/contourTkr.png" width="30%" />
+  <img src="data/floquet2D.png" width="30%" />
+</p>
+
 ### <span style="color:#e67e22"> Oral communications (14) </span>
 
 2026 <br>
