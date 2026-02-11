@@ -11,7 +11,7 @@ This is a [proof of concept](https://arxiv.org/abs/2505.21203) to solve a minima
 <p align="center">
   <img src="data/magicarp.png" width="75%" />
   <br>
-  <em>Optimal gate-to-control map for qubits</em>
+  Optimal gate-to-control map for qubits.
 </p>
 
 
