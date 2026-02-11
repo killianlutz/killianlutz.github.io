@@ -30,6 +30,12 @@ Iterative algorithms require proper initializations. Does initialization matter?
     </video>
 </div>
 
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
+
 ### <span style="color:#e67e22"> Bloch ball for noisy qubits </span> 
 [Repository](https://github.com/killianlutz/BlochBallAnim.jl) <br>
 The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems. 
@@ -40,6 +46,12 @@ The Bloch ball is a fundamental tool which provides a geometrical interpretation
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
 
 ### <span style="color:#e67e22"> Paths of eigenvalues </span> 
 Track the collisions of eigenvalues as we vary the weight of a convex combination of matrices.
@@ -54,6 +66,12 @@ Track the collisions of eigenvalues as we vary the weight of a convex combinatio
     </video>
 </div>
 
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
+
 ### <span style="color:#e67e22"> Singularity of the value function </span> 
 Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal controls for a bilinear control system.
 
@@ -67,6 +85,12 @@ Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal con
     </video>
 </div>
 
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
+
 ### <span style="color:#e67e22"> Modal perspective on transport equations </span>
 Expore the effect of numerical diffusion and the Courant number on eigenvectors of circulant finite-differences matrices.
 
@@ -76,6 +100,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
