@@ -10,7 +10,11 @@ I use Julia as my go-to language, both for building complex <span style="color:#
 
 I use JAX to implement <span style="color:#800080">proofs of concept</span> by leveraging its <span style="color:#800080">automatic differentiation</span> capabilities to solve control problems in the discretize-then-optimize paradigm.
 
-***
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
 
 ### <span style="color:#e67e22"> Optimization, the intuitive way </span> 
 [Repository](https://github.com/killianlutz/IntuitiveOptimization) <br>
@@ -72,6 +76,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
