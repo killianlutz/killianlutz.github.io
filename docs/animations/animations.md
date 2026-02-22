@@ -94,18 +94,15 @@ Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal con
 ### <span style="color:#e67e22"> Rejection sampling </span> 
 Stochastic way to sample from probability distributions or measure volumes.
 
-<p align="center">
-  <video 
-    controls
-    muted
-    src="data/rjsampling.mp4"
-    width="45%" />
-  <video 
-    controls
-    muted
-    src="data/rjkermit.mp4" 
-    width="45%" />
-</p>
+<div align="center">
+    <video 
+        controls 
+        muted 
+        style="height: 250px; width: 250px">
+      <source src="data/rjkermit.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+</div>
 
 <hr style="
   border: none;
@@ -122,6 +119,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
