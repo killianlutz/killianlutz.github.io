@@ -95,8 +95,8 @@ Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal con
 Stochastic way to sample from probability distributions or measure volumes.
 
 <p align="center">
-  <img src="data/rjsampling.png" width="45%" />
-  <img src="data/rjkermit.png" width="45%" />
+  <img src="data/rjsampling.mp4" width="45%" />
+  <img src="data/rjkermit.mp4" width="45%" />
 </p>
 
 <hr style="
@@ -114,6 +114,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
