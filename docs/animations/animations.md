@@ -92,7 +92,7 @@ Either one or [exactly](https://hal.science/hal-05047678v3) two time-minimal con
 ">
 
 ### <span style="color:#e67e22"> Rejection sampling </span> 
-Stochastic way to sample from probability distributions or measure volumes.
+Sample from probability distributions and measure volumes.
 
 <div align="center">
     <video 
@@ -119,6 +119,7 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
 
 
 
