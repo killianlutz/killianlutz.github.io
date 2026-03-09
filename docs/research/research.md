@@ -7,12 +7,9 @@ permalink: /research
 For full references, consider checking out my [ORCID](https://orcid.org/0009-0009-1732-3723) profil.
 
 ### <span style="color:#e67e22"> Preprints (3) </span>
-3. 2026, *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. <br>
-  Submitted to: <span style="color:#800080">Physical Review Letters</span>. [Paper](https://hal.science/hal-05469937)
-2. 2025, *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. <br>
-  Submitted to: <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [Paper](https://hal.science/hal-05176524)
-1. 2025, *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. <br>
-  Submitted to: <span style="color:#800080">SIAM Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
+3. 2026, *Parametric Resonance: Bridging Optimal Control Theory and Dynamical System Stability*. Lutz K, Privat Y, Hardel V, Manfredi G, Hervieux P-A. [Paper](https://hal.science/hal-05469937)
+2. 2025, *Time Optimal Synthesis of Gates for Markovian Open Qudits*. Lutz K, Privat Y. [Paper](https://hal.science/hal-05176524)
+1. 2025, *Minimal Time Control of Underdamped Parametric Oscillators*. Lutz K, Privat Y. [Paper](https://hal.science/hal-05047678v3)
 
 ### <span style="color:#e67e22"> Publications (1)</span>
 
