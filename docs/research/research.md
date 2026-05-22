@@ -9,7 +9,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 ### <span style="color:#e67e22"> Preprints (4) </span>
 4. 2026, *Implementation of a shooting technique for quantum unitary control on spin qudits*. With Etienney PL, Franck E, Hartmann JG, Hervieux PA, Janković D. [Paper](https://arxiv.org/abs/2603.21689) [Julia](https://github.com/killianlutz/Magicarp) [Python](https://github.com/killianlutz/pyMagicarp)
 3. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v2) [Julia](https://github.com/killianlutz/VarFreqOscillator)
-2. 2025, *Time optimal synthesis of gates for markovian open qudits*. With Privat Y. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
+2. 2025, *Time optimal synthesis of gates for Markovian open qudits*. With Privat Y. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
 1. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. [Paper](https://hal.science/hal-05047678v3)
 
 ### <span style="color:#e67e22"> Publications (1)</span>
