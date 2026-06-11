@@ -36,14 +36,16 @@ Iterative algorithms require proper initializations. Does initialization matter?
   background: linear-gradient(to right, transparent, #bbb, transparent);
 ">
 
-### <span style="color:#e67e22"> Bloch ball for noisy qubits </span> 
-[Repository](https://github.com/killianlutz/BlochBallAnim.jl) <br>
-The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems. 
+### <span style="color:#e67e22"> Randomized Hamiltonian Monte Carlo </span> 
+Exploit Hamiltonian dynamics to generate samples from a target distribution.
 
 <div align="center">
     <video 
-        src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5" 
-        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
+        controls 
+        muted 
+        style="height: 250px; width: 250px">
+      <source src="data/rhmc.mp4" type="video/mp4">
+      Your browser does not support the video tag.
     </video>
 </div>
 
@@ -119,6 +121,23 @@ Expore the effect of numerical diffusion and the Courant number on eigenvectors 
         controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
     </video>
 </div>
+
+### <span style="color:#e67e22"> Bloch ball for noisy qubits </span> 
+[Repository](https://github.com/killianlutz/BlochBallAnim.jl) <br>
+The Bloch ball is a fundamental tool which provides a geometrical interpretation for the dynamics and control of quantum systems. 
+
+<div align="center">
+    <video 
+        src="https://github.com/killianlutz/killianlutz.github.io/assets/152091888/9ea576f4-d05d-4554-84d3-c0a665ef8fc5" 
+        controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="height: 250px; width: 250px">
+    </video>
+</div>
+
+<hr style="
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #bbb, transparent);
+">
 
 
 
