@@ -6,15 +6,16 @@ permalink: /research
 
 For full references, consider checking out my [ORCID](https://orcid.org/0009-0009-1732-3723) profil.
 
-### <span style="color:#e67e22"> Preprints (4) </span>
-4. 2026, *Fast and smooth quantum unitary control of high-dimensional spin-qudits via a shooting technique*. With Etienney PL, Franck E, Hartmann JG, Hervieux PA, Janković D. [Paper](https://hal.science/hal-05642880) [Julia](https://github.com/killianlutz/Magicarp) [Python](https://github.com/killianlutz/pyMagicarp)
-3. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v2) [Julia](https://github.com/killianlutz/VarFreqOscillator)
-2. 2025, *Time optimal synthesis of gates for Markovian open qudits*. With Privat Y. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
-1. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. [Paper](https://hal.science/hal-05047678v3)
+### <span style="color:#e67e22"> Preprints (3) </span>
+3. 2026, *Fast and smooth quantum unitary control of high-dimensional spin-qudits via a shooting technique*. With Etienney PL, Franck E, Hartmann JG, Hervieux PA, Janković D. [Paper](https://hal.science/hal-05642880) [Julia](https://github.com/killianlutz/Magicarp) [Python](https://github.com/killianlutz/pyMagicarp)
+2. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v2) [Julia](https://github.com/killianlutz/VarFreqOscillator)
+1. 2025, *Time optimal synthesis of gates for Markovian open qudits*. With Privat Y. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
 
-### <span style="color:#e67e22"> Publications (1)</span>
+### <span style="color:#e67e22"> Publications (2)</span>
 
-1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. Courtès C, Franck E, Lutz K, Navoret L, Privat Y. <br>
+2. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. <br>
+  Published in: <span style="color:#800080">SIAM Journal on Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
+1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. With Courtès C, Franck E, Navoret L, Privat Y. <br>
   Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
 <p align="center">
