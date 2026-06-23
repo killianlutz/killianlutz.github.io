@@ -14,7 +14,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 ### <span style="color:#e67e22"> Publications (2)</span>
 
 2. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. <br>
-  Published in: <span style="color:#800080">SIAM Journal on Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
+  Accepted for publication in: <span style="color:#800080">SIAM Journal on Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
 1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. With Courtès C, Franck E, Navoret L, Privat Y. <br>
   Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
