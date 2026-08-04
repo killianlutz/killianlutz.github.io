@@ -27,16 +27,17 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 ### <span style="color:#e67e22"> Oral communications (14) </span>
 
 2026 <br>
-15. September, Nantes. LS2N CODEX (60'). (upcoming)
-14. January, Nancy. ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
+16. September, Nantes. LS2N CODEX (60'). (upcoming)
+15. January, Nancy. ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
 
 2025 <br>
-13. October, Tunisia. PICOF. [Poster](https://seafile.unistra.fr/f/60d19f055186449c89dc/)
-12. September, Nancy. IECL PhD students seminar (60').
-11. June, Carcans. SMAI (30'). 
-10. May, Autrans. ANR Stoiques (30'). 
-9. April, Nancy. GT INRIA Sphinx (90').
-8. March, Nancy. Quantum Lo (30'). 
+14. October, Tunisia. PICOF. [Poster](https://seafile.unistra.fr/f/60d19f055186449c89dc/)
+13. September, Nancy. IECL PhD students seminar (60').
+12. June, Carcans. SMAI (30'). 
+11. May, Autrans. ANR Stoiques (30'). 
+10. April, Nancy. GT INRIA Sphinx (90').
+9. March, Nancy. Quantum Lo (30'). 
+8. February, Online. Popularization, La Poste/Inria (60')
 
 2024 <br>
 7. October, Lyon. CJC-MA (25'). 
