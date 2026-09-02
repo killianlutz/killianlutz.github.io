@@ -27,7 +27,8 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 ### <span style="color:#e67e22"> Oral communications (14) </span>
 
 2026 <br>
-16. September, Nantes. LS2N CODEX (60'). (upcoming)
+17. September, Nantes. LS2N CODEX (60'). (upcoming)
+16. September, Graz. Group of Prof. Clason (60').
 15. January, Nancy. ANR QuBiCCS (60'). [Beamer](https://seafile.unistra.fr/d/6dcdfe5628184c3bb6a1/)
 
 2025 <br>
