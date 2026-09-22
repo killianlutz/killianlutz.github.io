@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-I hold a PhD degree in Applied Mathematics from the University of Strasbourg. <br>
-I defended my [thesis](https://theses.hal.science/tel-05699839v1/document), entitled *Time optimal control with applications to quantum computing and parametric resonance*, on the 17th of September 2026.
+I hold a PhD degree in Applied mathematics from the University of Strasbourg. <br>
+I defended my [thesis](https://theses.hal.science/tel-05699839v1/document) on the 17th of September 2026.
 
 <div align="center">
     <video 
