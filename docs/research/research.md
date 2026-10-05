@@ -8,7 +8,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 ### <span style="color:#e67e22"> Preprints (2) </span>
 2. 2026, *Fast and smooth quantum unitary control of high-dimensional spin-qudits via a shooting technique*. With Etienney PL, Franck E, Hartmann JG, Hervieux PA, Janković D. [Paper](https://hal.science/hal-05642880) [Julia](https://github.com/killianlutz/Magicarp) [Python](https://github.com/killianlutz/pyMagicarp)
-1. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v2) [Julia](https://github.com/killianlutz/VarFreqOscillator)
+1. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v3) [Julia](https://github.com/killianlutz/VarFreqOscillator)
 
 ### <span style="color:#e67e22"> Publications (3)</span>
 
