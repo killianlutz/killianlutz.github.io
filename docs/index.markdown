@@ -4,7 +4,7 @@
 ---
 
 I hold a PhD degree in Applied mathematics from the University of Strasbourg. <br>
-I defended my [thesis](https://theses.hal.science/tel-05699839v1/document) on the 17th of September 2026.
+I defended my [thesis](https://theses.hal.science/tel-05699839) on the 17th of September 2026.
 
 <div align="center">
     <video 
