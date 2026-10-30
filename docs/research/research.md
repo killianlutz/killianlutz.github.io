@@ -6,18 +6,19 @@ permalink: /research
 
 For full references, consider checking out my [ORCID](https://orcid.org/0009-0009-1732-3723) profil.
 
-### <span style="color:#e67e22"> Preprints (2) </span>
+### <span style="color:#e67e22"> Preprints (1) </span>
 2. 2026, *Fast and smooth quantum unitary control of high-dimensional spin-qudits via a shooting technique*. With Etienney PL, Franck E, Hartmann JG, Hervieux PA, Janković D. [Paper](https://hal.science/hal-05642880) [Julia](https://github.com/killianlutz/Magicarp) [Python](https://github.com/killianlutz/pyMagicarp)
 1. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. [Paper](https://hal.science/hal-05469937v3) [Julia](https://github.com/killianlutz/VarFreqOscillator)
 
-### <span style="color:#e67e22"> Publications (3) </span>
+### <span style="color:#e67e22"> Publications (4) </span>
 
+4. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. <br> To appear in <span style="color:#800080">Physical Review E</span>.[Paper](https://hal.science/hal-05469937v3) [Julia](https://github.com/killianlutz/VarFreqOscillator)
 3. 2025, *Time optimal synthesis of gates for Markovian open qudits*. With Privat Y. <br>
-   Published in: <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
+   Published in <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
 2. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. <br>
-  Published in: <span style="color:#800080">SIAM Journal on Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
+  Published in <span style="color:#800080">SIAM Journal on Control and Optimization</span>. [Paper](https://hal.science/hal-05047678v3)
 1. 2023, *Reduced modelling and optimal control of epidemiological individual-based models with contact heterogeneity*. With Courtès C, Franck E, Navoret L, Privat Y. <br>
-  Published in: <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
+  Published in <span style="color:#800080">Optimal Control Applications and Methods</span>. [Paper](https://hal.science/hal-03664271v3)
 
 <p align="center">
   <a href="https://hal.science/hal-05176524"><img src="data/qubits.png" width="30%" /></a>
