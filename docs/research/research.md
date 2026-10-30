@@ -11,7 +11,7 @@ For full references, consider checking out my [ORCID](https://orcid.org/0009-000
 
 ### <span style="color:#e67e22"> Publications (4) </span>
 
-4. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. <br> To appear in <span style="color:#800080">Physical Review E</span>.[Paper](https://hal.science/hal-05469937v3) [Julia](https://github.com/killianlutz/VarFreqOscillator)
+4. 2026, *Parametric resonance: bridging optimal control theory and dynamical system stability*. With Privat Y, Hardel V, Manfredi G, Hervieux PA. <br> To appear in <span style="color:#800080">Physical Review E</span>. [Paper](https://hal.science/hal-05469937v3) [Julia](https://github.com/killianlutz/VarFreqOscillator)
 3. 2025, *Time optimal synthesis of gates for Markovian open qudits*. With Privat Y. <br>
    Published in <span style="color:#800080">Journal de Mathématiques Pures et Appliquées</span>. [Paper](https://hal.science/hal-05176524) [Julia](https://github.com/killianlutz/GKSLgates)
 2. 2025, *Minimal time control of underdamped parametric oscillators*. With Privat Y. <br>
